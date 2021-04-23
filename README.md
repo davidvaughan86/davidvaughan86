@@ -23,8 +23,7 @@ I can run databases and servers with my Back End Langauges and Frameworks skills
 
 At the end of the day I'm a personable and talented young man with a big imagination. I hope to someday create a technology that will allow users to project the images in their brains and possibly even dreams. Until then, I'll be here - coding along with you. Happy Githubbing!
 
-![image0 (1)](https://user-images.githubusercontent.com/72748788/115801174-1d85ae00-a3aa-11eb-9b38-26e00b6c15bd.jpeg)
-
+![image0 (1)](https://user-images.githubusercontent.com/72748788/115801388-9dac1380-a3aa-11eb-803a-e7e03f146bd4.jpeg)
 
 
 
