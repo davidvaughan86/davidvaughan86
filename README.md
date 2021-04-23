@@ -24,7 +24,7 @@ But first
 ![postgresql (1)](https://user-images.githubusercontent.com/72748788/115798673-ccbf8680-a3a4-11eb-841e-65d622c1aa13.png)
 ![python (2)](https://user-images.githubusercontent.com/72748788/115798665-c7fad280-a3a4-11eb-862a-9ce9f704b53d.png)
 
- At the end of the day I'm a personable and talented young man with a big imagination. I hope to someday create a technology that will allow users to project the images in their brains and possibly even dreams. Until then, I'll be here - coding along with you. Happy Githubbing!
+ At the end of the day I'm a personable and talented young man with a big imagination. I hope to someday create a technology that will allow users to project the images in their brains and possibly even dreams. I'm also very interested in health and education and building practical software that will help people. Until then, I'll be here - coding along with you. Happy Githubbing!
 
 ![image0 (1)](https://user-images.githubusercontent.com/72748788/115801388-9dac1380-a3aa-11eb-803a-e7e03f146bd4.jpeg)
 
