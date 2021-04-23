@@ -1,4 +1,4 @@
-![2C5A4AFD-2085-48EE-B09B-3F73BFD566D4](https://user-images.githubusercontent.com/72748788/115799390-69365880-a3a6-11eb-8507-4038c3c344a3.JPG)
+![2C5A4AFD-2085-48EE-B09B-3F73BFD566D4](https://user-images.githubusercontent.com/72748788/115799390-69365880-a3a6-11eb-8507-4038c3c344a3.JPG width="50%")
 
 
 
