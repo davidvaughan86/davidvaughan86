@@ -25,8 +25,8 @@ At the end of the day I'm a personable and talented young man with a big imagina
 
 ![5f4e87c2b373d7975d97660f329ccf6a](https://user-images.githubusercontent.com/72748788/115799634-eeba0880-a3a6-11eb-89f8-ad749996792d.jpg)
 
+![image0](https://user-images.githubusercontent.com/72748788/115801058-d8fa1280-a3a9-11eb-9f77-31c834950d8f.jpeg)
 
-![A4CDDA86-4837-4301-A6B8-1DB8CDDDD30A](https://user-images.githubusercontent.com/72748788/115800756-4194bf80-a3a9-11eb-818d-ccda61513fcc.JPG)
 
 
 
