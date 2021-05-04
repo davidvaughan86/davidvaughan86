@@ -6,7 +6,7 @@
 But first
 
 
-  I'm a Full Stack Developer currently workinng on new programs and designing mobile first webapps. My Favorite Framework to code in 
+  I'm a Full Stack Developer currently working on new programs and designing mobile first webapps. My Favorite Framework to code in 
  ![react (3)](https://user-images.githubusercontent.com/72748788/115798786-0f815e80-a3a5-11eb-90fb-7ccf6c8ce535.png)
 ![redux (1)](https://user-images.githubusercontent.com/72748788/115798669-ca5d2c80-a3a4-11eb-9346-954ce623fe7e.png)
 
