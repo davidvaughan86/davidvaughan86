@@ -15,28 +15,15 @@
 But first
 
 
-  I'm a Full Stack Developer currently working on new programs and designing mobile first webapps. My Favorite Framework to code in 
+  I'm a Full Stack Developer currently working on new programs and designing mobile first webapps. My Favorite Framework to code in is React but I am developing an affinity for backend development as I create more projects.
 
-
-
-
- I can design beautiful applications and web pages using my Front End Languages skills 
-
-
-
-
- I can run databases and servers with my Back End Langauges and Frameworks skills 
+I can design beautiful applications and web pages using my Front End Languages skills.
+I can run databases and servers with my Back End Langauges and Frameworks skills.
 
 
  At the end of the day I'm a personable and talented young man with a big imagination. I hope to someday create a technology that will allow users to project the images in their brains and possibly even dreams. I'm also very interested in health and education and building practical software that will help people. Until then, I'll be here - coding along with you. Happy Githubbing!
 
 ![image0 (1)](https://user-images.githubusercontent.com/72748788/115801388-9dac1380-a3aa-11eb-803a-e7e03f146bd4.jpeg)
-
-
-
-
-
-
 
  - ⚡ Fun fact: I love ancient history, scary movies, exetrme outdoor advenutres, and all thing potato.
 
