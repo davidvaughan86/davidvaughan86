@@ -11,7 +11,7 @@
 ![python (2)](https://user-images.githubusercontent.com/72748788/115798665-c7fad280-a3a4-11eb-862a-9ce9f704b53d.png)
 
 
-## It's a beautiful day in the github Neightborhood and I invite you to take a look at my projects.
+## It's a beautiful day in the Github neightborhood and I invite you to take a look at my projects.
 
 
 But first
