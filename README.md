@@ -30,5 +30,5 @@ At the end of the day I'm a personable and talented young man with a big imagina
 
 Please check out [MY PORTFOLIO](http://dave2dev.com)
 
- - ⚡ Fun fact: I love ancient history, scary movies, exetrme outdoor advenutres, and all thing potato.
+ - ⚡ Fun fact: I love ancient history, scary movies, exetrme outdoor advenutres, and all things potato.
 
