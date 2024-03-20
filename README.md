@@ -1,4 +1,4 @@
-[MY PORTFOLIO](http://dave2dev.com)
+[MY PORTFOLIO](http://whoisdjv.info)
 
 
 ![react (3)](https://user-images.githubusercontent.com/72748788/115798786-0f815e80-a3a5-11eb-90fb-7ccf6c8ce535.png)
@@ -28,7 +28,7 @@ At the end of the day I'm a personable and talented young man with a big imagina
 
 ![image0 (1)](https://user-images.githubusercontent.com/72748788/115801388-9dac1380-a3aa-11eb-803a-e7e03f146bd4.jpeg)
 
-Please check out [MY PORTFOLIO](http://dave2dev.com)
+Please check out [MY PORTFOLIO](http://whoisdjv.info)
 
  - ⚡ Fun fact: I love ancient history, scary movies, exetrme outdoor advenutres, and all things potato.
 
